@@ -1,0 +1,100 @@
+accession	contig	longueur	type	description
+GCF_001900675.1	NZ_CP010145.1	4817460	chromosome	NZ_CP010145.1 Escherichia coli strain D5 chromosome, complete genome
+GCF_001900675.1	NZ_CP010146.1	112874	plasmide	NZ_CP010146.1 Escherichia coli strain D5 plasmid A, complete sequence
+GCF_001900675.1	NZ_CP010147.1	88754	plasmide	NZ_CP010147.1 Escherichia coli strain D5 plasmid B, complete sequence
+GCF_005221725.1	NZ_CP028641.1	5453900	chromosome	NZ_CP028641.1 Escherichia coli strain 132 chromosome, complete genome
+GCF_005221725.1	NZ_CP028643.1	93185	plasmide	NZ_CP028643.1 Escherichia coli strain 132 plasmid pTA132, complete sequence
+GCF_005221725.1	NZ_CP028642.1	6078	plasmide	NZ_CP028642.1 Escherichia coli strain 132 plasmid pTA132-2, complete sequence
+GCF_016903615.1	NZ_CP069990.1	5141076	chromosome	NZ_CP069990.1 Escherichia coli strain FDAARGOS_1304 chromosome, complete genome
+GCF_016903615.1	NZ_CP069991.1	133493	plasmide	NZ_CP069991.1 Escherichia coli strain FDAARGOS_1304 plasmid unnamed, complete sequence
+GCF_017639145.1	NZ_CP067303.1	4602727	chromosome	NZ_CP067303.1 Escherichia coli strain ABW_A32 chromosome, complete genome
+GCF_017639145.1	NZ_CP067304.1	126378	plasmide	NZ_CP067304.1 Escherichia coli strain ABW_A32 plasmid pABW_A32a, complete sequence
+GCF_017639145.1	NZ_CP067305.1	72418	plasmide	NZ_CP067305.1 Escherichia coli strain ABW_A32 plasmid pABW_A32b, complete sequence
+GCF_017639145.1	NZ_CP067306.1	3849	plasmide	NZ_CP067306.1 Escherichia coli strain ABW_A32 plasmid pABW_A32c, complete sequence
+GCF_024585365.1	NZ_CP073924.1	4827999	chromosome	NZ_CP073924.1 Escherichia coli strain MB165 chromosome, complete genome
+GCF_024585365.1	NZ_CP073925.1	252347	plasmide	NZ_CP073925.1 Escherichia coli strain MB165 plasmid pYLMB165, complete sequence
+GCF_024585985.1	NZ_CP074052.1	5175971	chromosome	NZ_CP074052.1 Escherichia coli strain PD23 chromosome, complete genome
+GCF_024585985.1	NZ_CP074053.1	2963	plasmide	NZ_CP074053.1 Escherichia coli strain PD23 plasmid pYLPD23, complete sequence
+GCF_024917335.1	NZ_CP103557.1	5341056	chromosome	NZ_CP103557.1 Escherichia coli O25b:H4-ST131 strain 4993 chromosome, complete genome
+GCF_024917335.1	NZ_CP103558.1	125598	plasmide	NZ_CP103558.1 Escherichia coli O25b:H4-ST131 strain 4993 plasmid pMB8413_1, complete sequence
+GCF_029227895.1	NZ_CP074366.1	4855674	chromosome	NZ_CP074366.1 Escherichia coli strain ZYB62 chromosome, complete genome
+GCF_029227895.1	NZ_CP074367.1	226158	plasmide	NZ_CP074367.1 Escherichia coli strain ZYB62 plasmid unnamed1, complete sequence
+GCF_029227895.1	NZ_CP074368.1	87829	plasmide	NZ_CP074368.1 Escherichia coli strain ZYB62 plasmid unnamed2, complete sequence
+GCF_029227895.1	NZ_CP074369.1	93492	plasmide	NZ_CP074369.1 Escherichia coli strain ZYB62 plasmid unnamed3, complete sequence
+GCF_029318935.1	NZ_CP119730.1	4989742	chromosome	NZ_CP119730.1 Escherichia coli strain E32 chromosome, complete genome
+GCF_029318935.1	NZ_CP119731.1	226260	plasmide	NZ_CP119731.1 Escherichia coli strain E32 plasmid pE32-1, complete sequence
+GCF_029318935.1	NZ_CP119732.1	130351	plasmide	NZ_CP119732.1 Escherichia coli strain E32 plasmid pE32-2, complete sequence
+GCF_029318935.1	NZ_CP119733.1	129739	plasmide	NZ_CP119733.1 Escherichia coli strain E32 plasmid pE32-3, complete sequence
+GCF_029625115.1	NZ_CP121149.1	4988967	chromosome	NZ_CP121149.1 Escherichia coli strain E14 chromosome, complete genome
+GCF_029625115.1	NZ_CP121150.1	226260	plasmide	NZ_CP121150.1 Escherichia coli strain E14 plasmid pE14-1, complete sequence
+GCF_029625135.1	NZ_CP121151.1	5255987	chromosome	NZ_CP121151.1 Escherichia coli strain E47 chromosome, complete genome
+GCF_029625135.1	NZ_CP121152.1	142233	plasmide	NZ_CP121152.1 Escherichia coli strain E47 plasmid pE47-1, complete sequence
+GCF_029991185.1	NZ_CP124320.1	4974100	chromosome	NZ_CP124320.1 Escherichia coli strain AVS0754 chromosome, complete genome
+GCF_029991185.1	NZ_CP124321.1	119946	plasmide	NZ_CP124321.1 Escherichia coli strain AVS0754 plasmid pAVS0754-A, complete sequence
+GCF_030013715.1	NZ_CP122823.1	5272534	chromosome	NZ_CP122823.1 Escherichia coli strain ETEC1732 chromosome, complete genome
+GCF_030013715.1	NZ_CP122824.1	5128	plasmide	NZ_CP122824.1 Escherichia coli strain ETEC1732 plasmid unnamed1, complete sequence
+GCF_030013715.1	NZ_CP122825.1	6646	plasmide	NZ_CP122825.1 Escherichia coli strain ETEC1732 plasmid unnamed2, complete sequence
+GCF_030013715.1	NZ_CP122826.1	4448	plasmide	NZ_CP122826.1 Escherichia coli strain ETEC1732 plasmid unnamed3, complete sequence
+GCF_030013715.1	NZ_CP122827.1	80827	plasmide	NZ_CP122827.1 Escherichia coli strain ETEC1732 plasmid unnamed4, complete sequence
+GCF_030013715.1	NZ_CP122828.1	90359	plasmide	NZ_CP122828.1 Escherichia coli strain ETEC1732 plasmid unnamed5, complete sequence
+GCF_030013715.1	NZ_CP122829.1	79265	plasmide	NZ_CP122829.1 Escherichia coli strain ETEC1732 plasmid unnamed6, complete sequence
+GCF_030013715.1	NZ_CP122830.1	98230	plasmide	NZ_CP122830.1 Escherichia coli strain ETEC1732 plasmid unnamed7, complete sequence
+GCF_030013715.1	NZ_CP122831.1	6826	plasmide	NZ_CP122831.1 Escherichia coli strain ETEC1732 plasmid unnamed8, complete sequence
+GCF_030296275.1	NZ_AP027440.1	5047835	chromosome	NZ_AP027440.1 Escherichia coli strain EC556 isolate EC556 chromosome, complete genome
+GCF_030296275.1	NZ_AP027439.1	88955	plasmide	NZ_AP027439.1 Escherichia coli strain EC556 isolate EC556 plasmid pEC556_1, complete sequence
+GCF_030296275.1	NZ_AP027438.1	72582	plasmide	NZ_AP027438.1 Escherichia coli strain EC556 isolate EC556 plasmid pEC556_2, complete sequence
+GCF_030296275.1	NZ_AP027437.1	65141	plasmide	NZ_AP027437.1 Escherichia coli strain EC556 isolate EC556 plasmid pEC556_3, complete sequence
+GCF_030384705.1	NZ_CP128578.1	5299837	chromosome	NZ_CP128578.1 Escherichia coli strain VG38-53E1 chromosome, complete genome
+GCF_034119705.1	NZ_CP139360.1	4876676	chromosome	NZ_CP139360.1 Escherichia coli strain EC147566 chromosome, complete genome
+GCF_034119705.1	NZ_CP139361.1	110106	plasmide	NZ_CP139361.1 Escherichia coli strain EC147566 plasmid pEC147566-1, complete sequence
+GCF_034119705.1	NZ_CP139362.1	46421	plasmide	NZ_CP139362.1 Escherichia coli strain EC147566 plasmid pEC147566-2, complete sequence
+GCF_034119705.1	NZ_CP139363.1	4362	plasmide	NZ_CP139363.1 Escherichia coli strain EC147566 plasmid pEC147566-3, complete sequence
+GCF_043995745.1	NZ_CP171869.1	4828830	chromosome	NZ_CP171869.1 Escherichia coli strain YZ22PE68 chromosome, complete genome
+GCF_043995745.1	NZ_CP171870.1	82203	plasmide	NZ_CP171870.1 Escherichia coli strain YZ22PE68 plasmid pYUYZPE68-1, complete sequence
+GCF_043995745.1	NZ_CP171871.1	63079	plasmide	NZ_CP171871.1 Escherichia coli strain YZ22PE68 plasmid pYUYZPE68-2, complete sequence
+GCF_043995745.1	NZ_CP171872.1	60011	plasmide	NZ_CP171872.1 Escherichia coli strain YZ22PE68 plasmid pYUYZPE68-3, complete sequence
+GCF_043995745.1	NZ_CP171873.1	46569	plasmide	NZ_CP171873.1 Escherichia coli strain YZ22PE68 plasmid pYUYZPE68-4, complete sequence
+GCF_046107165.1	NZ_CP151042.1	4699669	chromosome	NZ_CP151042.1 Escherichia coli strain 19KM2415N chromosome, complete genome
+GCF_046107165.1	NZ_CP151043.1	75795	plasmide	NZ_CP151043.1 Escherichia coli strain 19KM2415N plasmid p19KM2415_1, complete sequence
+GCF_046107165.1	NZ_CP151044.1	63589	plasmide	NZ_CP151044.1 Escherichia coli strain 19KM2415N plasmid p19KM2415_OXA48, complete sequence
+GCF_046108985.1	NZ_CP151067.1	5040491	chromosome	NZ_CP151067.1 Escherichia coli strain 21KM1392 chromosome, complete genome
+GCF_046108985.1	NZ_CP151069.1	36211	plasmide	NZ_CP151069.1 Escherichia coli strain 21KM1392 plasmid p21KM1392_2, complete sequence
+GCF_046108985.1	NZ_CP151070.1	49405	plasmide	NZ_CP151070.1 Escherichia coli strain 21KM1392 plasmid p21KM1392_3, complete sequence
+GCF_046108985.1	NZ_CP151068.1	63589	plasmide	NZ_CP151068.1 Escherichia coli strain 21KM1392 plasmid p21KM1392_OXA48, complete sequence
+GCF_048160275.1	NZ_CP182408.1	4885978	chromosome	NZ_CP182408.1 Escherichia coli strain C11 chromosome, complete genome
+GCF_048160275.1	NZ_CP182409.1	229147	plasmide	NZ_CP182409.1 Escherichia coli strain C11 plasmid unnamed1, complete sequence
+GCF_048160275.1	NZ_CP182410.1	88922	plasmide	NZ_CP182410.1 Escherichia coli strain C11 plasmid unnamed2, complete sequence
+GCF_048160275.1	NZ_CP182411.1	3555	plasmide	NZ_CP182411.1 Escherichia coli strain C11 plasmid unnamed3, complete sequence
+GCF_048585575.1	NZ_CP184060.1	5203874	chromosome	NZ_CP184060.1 Escherichia coli strain 1447 chromosome, complete genome
+GCF_048585575.1	NZ_CP184061.1	113055	plasmide	NZ_CP184061.1 Escherichia coli strain 1447 plasmid p1447_1, complete sequence
+GCF_049570325.1	NZ_CP077491.1	5756848	chromosome	NZ_CP077491.1 Escherichia coli O111:H11 strain 88-19539 chromosome, complete genome
+GCF_049570325.1	NZ_CP077492.1	96776	plasmide	NZ_CP077492.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-1, complete sequence
+GCF_049570325.1	NZ_CP077493.1	95569	plasmide	NZ_CP077493.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-2, complete sequence
+GCF_049570325.1	NZ_CP077494.1	94918	plasmide	NZ_CP077494.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-3, complete sequence
+GCF_049570325.1	NZ_CP077495.1	5423	plasmide	NZ_CP077495.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-4, complete sequence
+GCF_049570325.1	NZ_CP077496.1	4715	plasmide	NZ_CP077496.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-5, complete sequence
+GCF_049570325.1	NZ_CP077497.1	4636	plasmide	NZ_CP077497.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-6, complete sequence
+GCF_049570325.1	NZ_CP077498.1	2781	plasmide	NZ_CP077498.1 Escherichia coli O111:H11 strain 88-19539 plasmid p88_19539-7, complete sequence
+GCF_051521855.1	NZ_CP195945.1	4811522	chromosome	NZ_CP195945.1 Escherichia coli strain C6 chromosome, complete genome
+GCF_051521855.1	NZ_CP195946.1	109926	plasmide	NZ_CP195946.1 Escherichia coli strain C6 plasmid p1, complete sequence
+GCF_051521855.1	NZ_CP195947.1	95150	plasmide	NZ_CP195947.1 Escherichia coli strain C6 plasmid p2, complete sequence
+GCF_051521855.1	NZ_CP195948.1	63308	plasmide	NZ_CP195948.1 Escherichia coli strain C6 plasmid p3, complete sequence
+GCF_053169045.1	NZ_CP098838.1	4811319	chromosome	NZ_CP098838.1 Escherichia coli strain CUVET18-1530 chromosome, complete genome
+GCF_053169045.1	NZ_CP098839.1	108122	plasmide	NZ_CP098839.1 Escherichia coli strain CUVET18-1530 plasmid pCUVET18-1530.1, complete sequence
+GCF_053169045.1	NZ_CP098840.1	2088	plasmide	NZ_CP098840.1 Escherichia coli strain CUVET18-1530 plasmid pCUVET18-1530.2, complete sequence
+GCF_054903135.1	NZ_CM142803.1	4878742	chromosome	NZ_CM142803.1 Escherichia coli strain GPEC709 chromosome, whole genome shotgun sequence
+GCF_054903135.1	NZ_JBUBII010000002.1	206243	plasmide	NZ_JBUBII010000002.1 Escherichia coli strain GPEC709 plasmid p709, whole genome shotgun sequence
+GCF_055687985.1	NZ_CM146019.1	4665749	chromosome	NZ_CM146019.1 Escherichia coli strain YDMW_2_complete chromosome, whole genome shotgun sequence
+GCF_055687985.1	NZ_JBVNBP010000002.1	31272	plasmide	NZ_JBVNBP010000002.1 Escherichia coli strain YDMW_2_complete plasmid pYDMW_2_1, whole genome shotgun sequence
+GCF_057586655.1	NZ_CM172481.1	4957284	chromosome	NZ_CM172481.1 Escherichia coli strain GZ2408C chromosome, whole genome shotgun sequence
+GCF_057586655.1	NZ_JBYCWT010000002.1	39194	plasmide	NZ_JBYCWT010000002.1 Escherichia coli strain GZ2408C plasmid P1, whole genome shotgun sequence
+GCF_057586655.1	NZ_JBYCWT010000001.1	153509	plasmide	NZ_JBYCWT010000001.1 Escherichia coli strain GZ2408C plasmid P2, whole genome shotgun sequence
+GCF_059727225.1	NZ_AP043963.1	5041202	chromosome	NZ_AP043963.1 Escherichia coli strain 21AH007 chromosome, complete genome
+GCF_059727225.1	NZ_AP043964.1	55681	plasmide	NZ_AP043964.1 Escherichia coli strain 21AH007 plasmid p21AH007_1, complete sequence
+GCF_902810405.1	NZ_LR778153.1	4741504	chromosome	NZ_LR778153.1 Escherichia coli isolate SC480 chromosome 1
+GCF_988243845.1	NZ_OZ547541.1	4802241	chromosome	NZ_OZ547541.1 Escherichia coli isolate AB104 chromosome 1, complete sequence
+GCF_988243845.1	NZ_OZ547542.1	89626	plasmide	NZ_OZ547542.1 Escherichia coli isolate AB104 plasmid 2, complete sequence
+GCF_988243845.1	NZ_OZ547543.1	38611	plasmide	NZ_OZ547543.1 Escherichia coli isolate AB104 plasmid 3, complete sequence
+GCF_988243845.1	NZ_OZ547544.1	7467	plasmide	NZ_OZ547544.1 Escherichia coli isolate AB104 plasmid 4, complete sequence
+GCF_988243845.1	NZ_OZ547545.1	5164	plasmide	NZ_OZ547545.1 Escherichia coli isolate AB104 plasmid 5, complete sequence
+GCF_988243845.1	NZ_OZ547546.1	3066	plasmide	NZ_OZ547546.1 Escherichia coli isolate AB104 plasmid 6, complete sequence
